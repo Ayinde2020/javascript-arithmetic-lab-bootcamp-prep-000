@@ -5,5 +5,7 @@ function makeInt(m, 10) {
 makeInt('30', 10)
 
 function makeDecimal(m, 10) {
-  return makeDecimal('90')
+  return makeDecimal(m)
 }
+
+makeDecimal('90')
