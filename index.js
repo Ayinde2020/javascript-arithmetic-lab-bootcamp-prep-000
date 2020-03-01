@@ -1,3 +1,3 @@
 console.log(makeInt('56', 10))
 
-console.log(parseFloat('67'))
+console.log(makeDecimal('67'))
