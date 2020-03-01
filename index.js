@@ -1,1 +1,1 @@
-console.log(makeInt('5', 10))
+console.log(makeInt(string, 10))
