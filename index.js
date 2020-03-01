@@ -8,4 +8,4 @@ function makeDecimal(m, 10) {
   return makeDecimal(m)
 }
 
-makeDecimal('90')
+makeDecimal('90.00')
