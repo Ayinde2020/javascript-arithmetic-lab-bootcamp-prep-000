@@ -1,3 +1,3 @@
-console.log(makeInt('56', 10))
+return (makeInt('56', 10))
 
-console.log(makeDecimal('67'))
+return (makeDecimal('67'))
