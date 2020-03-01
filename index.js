@@ -1,3 +1,3 @@
-console.log(parseInt('string', 10))
+console.log(parseInt('56', 10))
 
-console.log(parseFloat(string))
+console.log(parseFloat('67'))
